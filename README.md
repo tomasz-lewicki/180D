@@ -18,6 +18,7 @@
     - [x] race conditions,
     - [x] Mealy/Moore finite state machines
 4. Microprocessor control path and data path components and design
-    - [] control path
+    - [x] control path
+    
 Interesting thing on processor microarchitecutre&datapath (could be useful)
 https://www.cise.ufl.edu/~mssz/CompOrg/CDA-proc.html
